@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\QodelessC#\\SquidGame\\SquidGame\\SquidGame.csproj",
+      "projectUniqueName": "C:\\Qodeless-C-\\SquidGame\\SquidGame\\SquidGame.csproj",
       "projectName": "SquidGame",
-      "projectPath": "C:\\QodelessC#\\SquidGame\\SquidGame\\SquidGame.csproj",
+      "projectPath": "C:\\Qodeless-C-\\SquidGame\\SquidGame\\SquidGame.csproj",
       "packagesPath": "C:\\Users\\joaoe\\.nuget\\packages\\",
-      "outputPath": "C:\\QodelessC#\\SquidGame\\SquidGame\\obj\\",
+      "outputPath": "C:\\Qodeless-C-\\SquidGame\\SquidGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

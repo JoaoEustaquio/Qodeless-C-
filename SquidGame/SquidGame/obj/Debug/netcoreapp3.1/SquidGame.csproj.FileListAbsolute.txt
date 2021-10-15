@@ -12,3 +12,17 @@ C:\QodelessC#\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.pdb
 C:\QodelessC#\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.dll
 C:\QodelessC#\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.pdb
 C:\QodelessC#\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.genruntimeconfig.cache
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.csproj.AssemblyReference.cache
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.AssemblyInfoInputs.cache
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.AssemblyInfo.cs
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.csproj.CoreCompileInputs.cache
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.dll
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.pdb
+C:\Qodeless-C-\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.exe
+C:\Qodeless-C-\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.deps.json
+C:\Qodeless-C-\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.runtimeconfig.json
+C:\Qodeless-C-\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.runtimeconfig.dev.json
+C:\Qodeless-C-\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.dll
+C:\Qodeless-C-\SquidGame\SquidGame\bin\Debug\netcoreapp3.1\SquidGame.pdb
+C:\Qodeless-C-\SquidGame\SquidGame\obj\Debug\netcoreapp3.1\SquidGame.genruntimeconfig.cache
